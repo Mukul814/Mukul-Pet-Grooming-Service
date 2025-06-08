@@ -48,7 +48,7 @@ function Contact() {
   const handleSubmit = (e) => {
     e.preventDefault();
     
-    // Simple validation
+  
     if (!formData.petOwnerName || !formData.petName || !formData.phone || !formData.email || !formData.service || !formData.date || !formData.time) {
       alert('Please fill in all required fields');
       return;

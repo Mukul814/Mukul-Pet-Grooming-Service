@@ -18,7 +18,7 @@ This is a simple React-based website for pet daycare and grooming services.
 
 ## Getting Started
 
-Goal: Made as a side Project for the course of MERN Full Stack Development.
+Goal:  Translate my course learning( MERN Full Stack) into a real practical product. 
 
 ## Website Link
 
